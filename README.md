@@ -23,7 +23,7 @@ I am particularly passionate about exploring the intersection of full-stack deve
 ## Technical Skills
 
 ### Programming Languages
-- Python, Java, C, C++, JavaScript, Bash
+- Python, Java, C++, JavaScript, Bash
 
 ### MERN Stack Development
 - **MongoDB**: Schema design, indexing, aggregation pipelines, Mongoose ODM  
@@ -48,7 +48,7 @@ I am particularly passionate about exploring the intersection of full-stack deve
 ### Artificial Intelligence & Machine Learning
 - PyTorch, Scikit-learn, NumPy, Matplotlib
 - Classification models, training and evaluation pipelines
-- Computer vision using YOLOv11, OpenCV for image/video processing
+- Computer vision using YOLO, OpenCV for image/video processing
 
 ### DevOps & Tools
 - Git, GitHub, Postman, VS Code, Netlify, Render
